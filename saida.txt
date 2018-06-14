@@ -1,0 +1,15 @@
+Rejeitada.
+Aceita.
+Aceita.
+
+->Automato minimizavel
+
+Alfabeto = (a, b, c)
+Quantidade de estados: 3
+Estado :0 - inicial
+T(0,a)->3
+Estado :3
+T(3,a)->4
+T(3,b)->3
+T(3,c)->3
+Estado :4 - final

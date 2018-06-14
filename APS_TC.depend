@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1528988024 source:c:\users\chuck\documentos\projects\aps-tc\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<map>
+	<vector>
+	<locale>
+	<stack>
+	<algorithm>
+	"estado.h"
+	"teste.h"
+
+1528900824 source:c:\users\chuck\documentos\projects\aps-tc\estado.cpp
+	"estado.h"
+
+1528899836 c:\users\chuck\documentos\projects\aps-tc\estado.h
+	<map>
+
+1528651319 source:c:\users\chuck\documentos\projects\aps-tc\teste.cpp
+	"teste.h"
+
+1528651245 c:\users\chuck\documentos\projects\aps-tc\teste.h
+	"estado.h"
+
